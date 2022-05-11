@@ -1,0 +1,10 @@
+Create key in HOST
+Copy and paste the Pub Key in coral key file
+try connecting ssh with -i path of pub key 
+
+
+REF:
+https://coral.ai/docs/dev-board/mdt/#connect-using-other-ssh-tools
+https://serverpilot.io/docs/how-to-use-ssh-public-key-authentication/
+
+Done  :)
